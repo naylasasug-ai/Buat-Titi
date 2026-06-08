@@ -1,5 +1,5 @@
 # Buat-Titi✨
-[demo](https://buat-titi.netlify.app/)
+[demo](https://buat-titi.netlify.app/](https://github.com/naylasasug-ai/Buat-Titi.git))
 
 ## 🚀 Quick start
 
